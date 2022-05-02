@@ -1,0 +1,18 @@
+const List<String> fiveLetterWords = [
+  'which',
+  'there',
+  'their',
+  'about',
+  'would',
+  'these',
+  'could',
+  'write',
+  'first',
+  'water',
+  'after',
+  'where',
+  'right',
+  'think',
+  'three',
+  'wears',
+];
