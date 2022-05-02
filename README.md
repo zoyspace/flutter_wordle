@@ -7,5 +7,7 @@ A Wordle clone in flutter.
 
 This is a clone of the popular word game Wordle written in Flutter.
 
-Flutter Wordle Clone Mobile/Web/Desktop Tutorial | Apps From Scratch
-https://www.youtube.com/watch?v=_W0RN_Cqhpg&t=80s
+
+Resources:
+youtube: https://www.youtube.com/watch?v=_W0RN_Cqhpg&t=80s
+wordle: https://www.nytimes.com/games/wordle/index.html
